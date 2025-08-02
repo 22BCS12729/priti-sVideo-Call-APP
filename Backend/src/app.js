@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
 const start = async () => {
   try {
     const connectionDb = await mongoose.connect(
-  "mongodb+srv://mehtaprity83:SOMPRIT@cluster0.7oqz4zq.mongodb.net/"
+  "mongodb+srv://mehtaprity83:SOMPRIT@cluster0.ecpxgf3.mongodb.net/"
     );
 
     console.log(` MongoDB connected at host: ${connectionDb.connection.host}`);
