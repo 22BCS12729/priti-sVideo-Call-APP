@@ -57,9 +57,9 @@ node app.js
 Open the frontend in your browser (or connect with your frontend folder if separated).
 
 📬 Contact Me
-📧 Email: pritimehta254@gmail.com
+📧 Email: mehtaprity83@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/priti-mehta
+💼 LinkedIn: https://www.linkedin.com/in/prity-mehta-679945287/
 
 📄 License
 This project is open source and free to use for educational and personal purposes.
